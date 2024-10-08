@@ -1,2 +1,2 @@
-# uchicago-assessment
-home-assessment
+# assessment
+assessment
